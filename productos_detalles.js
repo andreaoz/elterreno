@@ -1,6 +1,6 @@
 const products = [
     {
-      name: "Inflable con alberca de pelotas",
+      name: "Inflable",
       description: "Alberca de pelotas opcional.",
       image: "multimedia/inflable2.jpeg",
       precio: "$700",
